@@ -1,0 +1,6 @@
+
+Virtuaali ympäristö poetryssä =
+poetry shell
+
+Paikallinen testi (Shell pitää olla käynnissä) = 
+poetry run coverage run --branch -m pytest
