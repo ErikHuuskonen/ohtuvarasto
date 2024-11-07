@@ -58,7 +58,7 @@ class Varasto:
         self.saldo = self.saldo - maara
 
         return maara
-    
+
 
     def __str__(self):
         """
